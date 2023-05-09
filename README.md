@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  https://www.linkedin.com/in/akira-w-a01971106/
+  https://www.linkedin.com/in/akira-Watson-brown/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
