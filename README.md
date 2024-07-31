@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akira</h1>
 <h3 align="center">A passionate Fullstack developer from New York</h3>
 
-- 🔭 I’m currently working on [Django, Graphql,AI and Rust](https://github.com/AkiraBrown/learningThreeJS)
+- 🔭 I’m currently working on [Django, Graphql,AI, Rust and GO](https://github.com/AkiraBrown/learningThreeJS)
 
 - 🌱 I’m currently learning **Rust, AI and Computer Vision(OpenCV)**
 
